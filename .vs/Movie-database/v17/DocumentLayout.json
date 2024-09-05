@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Workspace\\Ashleys-unit-4-classwork\\Movie-database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E88F7-3B38-4DA9-B42D-667B352FC43C}|Movie-database\\Movie-database.csproj|c:\\users\\owner\\desktop\\workspace\\ashleys-unit-4-classwork\\movie-database\\movie-database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0E88F7-3B38-4DA9-B42D-667B352FC43C}|Movie-database\\Movie-database.csproj|solutionrelative:movie-database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0E88F7-3B38-4DA9-B42D-667B352FC43C}|Movie-database\\Movie-database.csproj|c:\\users\\owner\\desktop\\workspace\\ashleys-unit-4-classwork\\movie-database\\movie-database\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0E88F7-3B38-4DA9-B42D-667B352FC43C}|Movie-database\\Movie-database.csproj|solutionrelative:movie-database\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Workspace\\Ashleys-unit-4-classwork\\Movie-database\\Movie-database\\Movie.cs",
+              "RelativeDocumentMoniker": "Movie-database\\Movie.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Workspace\\Ashleys-unit-4-classwork\\Movie-database\\Movie-database\\Movie.cs",
+              "RelativeToolTip": "Movie-database\\Movie.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:15:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Workspace\\Ashleys-unit-4-classwork\\Movie-database\\Movie-database\\Program.cs",
+              "RelativeDocumentMoniker": "Movie-database\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Workspace\\Ashleys-unit-4-classwork\\Movie-database\\Movie-database\\Program.cs",
+              "RelativeToolTip": "Movie-database\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:45:15.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

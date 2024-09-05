@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\obj\Debug\Movie-database.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\obj\Debug\Movie-database.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\bin\Debug\Movie-database.exe.config
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\bin\Debug\Movie-database.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\bin\Debug\Movie-database.pdb
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\obj\Debug\Movie-database.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-4-classwork\Movie-database\Movie-database\obj\Debug\Movie-database.pdb
